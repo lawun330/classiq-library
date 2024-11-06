@@ -56,7 +56,7 @@ in the table or to add new ones.
     <tr>
         <td><a href="https://arxiv.org/abs/2303.13012" target="_blank">Exponential quantum speedup in simulating coupled classical oscillators</a></td>
         <td>
-          <a href="../algorithms/glued_trees/glued_trees.ipynb">Glued Trees Implementation</a>
+          <a href="../research/glued_trees/glued_trees.ipynb">Glued Trees Implementation</a>
         </td>
         <td>Exponential speedup in solving system of coupled harmonic oscilators</td>
         <td>#quantum_speedup</td>
@@ -104,8 +104,8 @@ in the table or to add new ones.
             <a href="https://arxiv.org/abs/2402.05574" target="_blank">Quantum Amplitude Loading for Rainbow Options Pricing</a>
         </td>
         <td style="min-width: 200px;">
-          <a href="../research/rainbow_options_direct_method/rainbow_options_direct_method.ipynb">Direct Method</a><br>
-          <a href="../research/rainbow_options_integration_method/rainbow_options_integration_method.ipynb">Integration Method</a>
+          <a href="../research/rainbow_options/rainbow_options_direct_method.ipynb">Direct Method</a><br>
+          <a href="../research/rainbow_options/rainbow_options_integration_method.ipynb">Integration Method</a>
         </td>
         <td>
             Implementation of the quantum monte-carlo integration method for the use case of rainbow option pricing
@@ -115,67 +115,4 @@ in the table or to add new ones.
             #amplitude_estimation
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://arxiv.org/pdf/2205.04844" target="_blank">Solving workflow scheduling problems with QUBO modeling</a>
-        </td>
-        <td style="min-width: 200px;">
-          <a href="../applications/logistics/task_scheduling_problem/task_scheduling_problem.ipynb">Workflow Scheduing</a>
-        </td>
-        <td>
-            Workflow scheduling with QAOA
-        </td>
-        <td>
-            #optimization<br>
-            #QAOA<br>
-            #logistics
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.nature.com/articles/s41534-021-00368-4" target="_blank">Resource-efficient quantum algorithm for protein folding</a>
-        </td>
-        <td style="min-width: 200px;">
-          <a href="../applications/chemistry/protein_folding/protein_folding.ipynb">Protein Folding</a>
-        </td>
-        <td>
-            Protein Folding, implemented with QAOA
-        </td>
-        <td>
-            #optimization<br>
-            #QAOA<br>
-            #chemistry
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://arxiv.org/abs/quant-ph/0111038" target="_blank">Discrete Cosine Transforms on Quantum Computers</a>
-        </td>
-        <td style="min-width: 200px;">
-          <a href="../functions/qmod_library_reference/classiq_open_library/qct_qst/qct_qst.ipynb">Quantum Discrete Cosine Transform</a>
-        </td>
-        <td>
-            Quantum Discrete Cosine Transform Function
-        </td>
-        <td>
-            #functions
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://arxiv.org/pdf/2208.01203" target="_blank">Unsupervised quantum machine learning for fraud detection</a>
-        </td>
-        <td style="min-width: 200px;">
-          <a href="../applications/finance/credit_card_fraud/credit_card_fraud.ipynb">Credit Card Fraud Detection</a>
-        </td>
-        <td>
-            Credit card fraud detection with Quantum Stave Vector Machine (QSVM)
-        </td>
-        <td>
-            #applications<be>
-            #finance<be>
-            #qml
-        </td>
-    </tr>
-    
 </table>
